@@ -1,4 +1,4 @@
-# Schluter_Project
+#Replication_Project
 
 ## Sam folder structure note
 For the code i will upload i'm using the following folder tree structure to set my path globals etc<br>
